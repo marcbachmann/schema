@@ -1,0 +1,25 @@
+{
+  "name": "schema",
+  "version": "1.0.0",
+  "main": "schema.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Marc Bachmann <marc.brookman@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "nanobench": "^1.0.1"
+  },
+  "dependencies": {
+    "boolean-expression": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcbachmann/schema.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcbachmann/schema/issues"
+  },
+  "homepage": "https://github.com/marcbachmann/schema#readme",
+  "description": ""
+}
